@@ -7,8 +7,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-EMAIL = "adarshgs.909@gmail.com"
-PASSWORD = "LpkM6B2KKQ86E!B"
+EMAIL = "your_email@gmail.com"
+PASSWORD = "your_password"
 
 CHROMEDRIVER_PATH = "/opt/homebrew/bin/chromedriver"
 
